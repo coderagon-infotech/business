@@ -1,0 +1,28 @@
+.menu-title {
+    background: #f3f3f3;
+    font-weight: bold;
+}
+.breadcrumb-item.active {
+    cursor: pointer;
+}
+.page-title {
+    cursor: context-menu;
+}
+.pricing-card {
+    min-height: 87%;
+}
+.position-r{
+    position: relative;
+}
+.more-record i.add-more-delete {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+}
+.avatar {
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    background-position: top center;
+    border-radius: 50%;
+}
